@@ -1,0 +1,93 @@
+h1{
+  text-align: center;
+  
+
+}
+h1:hover{
+  background-color: royalblue;
+  box-shadow: 5px 10px 0 0 rgb(231, 234, 236);
+  transition: 3s linear;
+}
+nav:hover{
+  background-color: royalblue;
+  box-shadow: 5px 10px 0 0 lightskyblue;
+  transition: 3s linear;
+  }
+
+nav{
+  border-top: 3px solid royalblue;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 3px solid royalblue;
+  padding: 15px;
+  
+}
+
+  
+table{
+   background-color: cornflowerblue;
+   border:5px solid rgb(242, 246, 246);
+   border-collapse: collapse;
+   text-align: center;
+   margin:5px;
+   font-size: 20px;
+   
+ 
+}
+
+td{
+  border:5px  solid black;
+  padding:5px;
+  color: white;
+}
+tr{
+  padding: 5px;
+  border: 5px solid black;
+}
+div{
+  display: flex;
+  padding: 5px;
+}
+p img{
+  display: block;
+margin-left: auto;
+margin-right: 200px;
+width: 20%;
+}
+body{
+  background-color:lavender ;
+}
+.gallery{
+  display: flex;
+  border:15px solid blue;
+  padding: 10px ;
+margin: 25px;
+justify-content: space-between;
+}
+nav a{
+  border: 10px solid royalblue;
+  margin: 5px;
+  padding: 5px;
+  text-decoration: blue;
+  box-shadow: 10px 5px 5px lightblue;
+}
+p{
+  font-size:20px;
+}
+img{
+  opacity: 0.5;
+}
+img:hover{
+  transition:1s;
+  opacity:1;
+}
+h1:hover{
+  font-size:50px;
+  transition:1s;
+}
+body{
+  text-align:center;
+}
+nav a{
+  font-size:22px;
+}
