@@ -1,0 +1,53 @@
+h1:hover{
+  background-color: royalblue;
+  box-shadow: 25px 35px 0 0 lightskyblue;
+  transition: 3s linear;
+}
+nav:hover{
+  background-color: royalblue;
+  box-shadow: 25px 35px 0 0 lightskyblue;
+  transition: 3s linear;
+  }
+  h1{
+  text-align: center;
+  border: 40px;
+}
+
+nav{
+  border-top: 3px solid royalblue;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 3px solid royalblue;
+  padding: 15px;
+  
+}
+nav a{
+  border: 10px solid royalblue;
+  margin: 5px;
+  padding: 5px;
+  text-decoration: blue;
+  box-shadow: 10px 5px 5px lightblue;
+}
+body{
+  background-color: lavender;
+}
+nav a{
+  font-size:22px;
+}
+body{
+  text-align: center;
+}
+li:hover{
+  transition:1s;
+ font-size:20px;
+}
+img{
+  width:30%;
+}
+a{
+  border: 10px solid royalblue;
+  margin: 5px;
+  padding: 5px;
+  text-decoration: blue;
+  box-shadow: 10px 5px 5px lightblue;
+}
