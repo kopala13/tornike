@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    border: 40px;
+}
+
+nav{
+    border-top: 3px solid royalblue;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid royalblue;
+    padding: 15px;
+    
+}
+nav a{
+    border: 10px solid royalblue;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: blue;
+    box-shadow: 10px 5px 5px lightblue;
+}
+body{
+    background-color: lavender;
+    text-align: center;
+    background: rgb(0,1,0);
+background: radial-gradient(circle, rgba(0,1,0,1) 0%, rgba(188, 190, 201, 0.583) 29%, rgb(85, 90, 113) 83%, rgb(206, 233, 243) 99%);
+}
+h1:hover{
+    background-color: royalblue;
+    box-shadow: 25px 35px 0 0 lightskyblue;
+    transition: 3s linear;
+}
+nav:hover{
+    background-color: royalblue;
+    box-shadow: 25px 35px 0 0 lightskyblue;
+    transition: 3s linear;
+    }
+    img{
+        width:30%;
+    }
+    p:hover{
+        box-shadow: 10px 10px 10px blue;
+        hover:1s;
+    }
+li:hover{
+    font-size:25px;
+    transition: 1s;
+
+}
+p{
+    font-size:20px;
+}
+nav a{
+    font-size:22px;
+}
